@@ -1,0 +1,6 @@
+{
+  "name": "HirePulse HR Recruitment Management",
+  "description": "Full-stack recruitment portal with role-based access for HR Admins and Job Seekers, candidate tracking, job posting CRUD, interview scheduler, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
